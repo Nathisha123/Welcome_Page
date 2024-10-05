@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 20px;
+    color:black;
+    transition: color 0.3s ease;
+    font-weight: 700;
+  }
+  
+  .nav-link:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  .Logo{
+    color:blue;
+    font-size: 30px;
+  }

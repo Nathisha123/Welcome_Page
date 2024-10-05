@@ -1,0 +1,12 @@
+{
+    "home": {
+      "welcomeMessage": "Welcome to my website!",
+      "description": "This is a simple application built with React.This application demonstrates how to create a simple React application with routing and data fetching."
+    },
+    "about": {
+      "title": "Web developer",
+      "bio": "I am a passionate MERN developer with over 3 years of experience as a software tester in India. I love creating attractive, user-friendly websites that provide an exceptional user experience. I have completed a course in the MERN stack and earned a certification, which has further fueled my enthusiasm for this field. Following that, I worked as a web developer intern, gaining practical experience and honing my skills in creating dynamic web applications. Currently, I am seeking opportunities to grow as a web developer and improve my skills in this area. I am eager to take on new challenges that will enhance my proficiency in web development and help me make meaningful contributions to my future team. Outside of work, I enjoy traveling and exploring new cultures, as well as learning new languages. I believe that broadening my horizons through travel enriches my perspective and creativity, ultimately influencing my work. I am excited about the future and look forward to the opportunities that lie ahead in my career."
+    }
+    
+  }
+  
